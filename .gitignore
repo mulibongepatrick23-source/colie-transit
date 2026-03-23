@@ -1,0 +1,19 @@
+# Flutter
+*.flutter-plugins
+*.flutter-plugins-dependencies
+.flutter-*/
+build/
+
+# Node.js
+node_modules/
+package-lock.json
+yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Secrets
+*.env
+secret_key
